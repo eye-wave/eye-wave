@@ -1,4 +1,4 @@
-name: Metrics
+name: Indepth analysis
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -11,4 +11,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
