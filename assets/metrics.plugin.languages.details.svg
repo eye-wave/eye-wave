@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.08881034531123" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="222.08881034531123" y="0" width="169.77766557266685" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="391.8664759179781" y="0" width="28.981458105416703" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="420.84793402339477" y="0" width="25.435552189402227" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.283486212797" y="0" width="13.716513787203006" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.57890617149445" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="219.57890617149445" y="0" width="159.67738352752025" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.25628969901476" y="0" width="40.492281004236325" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.74857070325106" y="0" width="27.320855303867695" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="447.06942600711875" y="0" width="12.930573992881282" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>86 kB</div>
-                                <div>48.28%</div>
+                                <div>90.2 kB</div>
+                                <div>47.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Rust
                             </div>
                             <small>
-                                <div>11.2 kB</div>
-                                <div>6.3%</div>
+                                <div>16.6 kB</div>
+                                <div>8.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>5.32 kB</div>
-                                <div>2.98%</div>
+                                <div>2.81%</div>
                             </small>
                         </div>
                     </section>
@@ -75,20 +75,20 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>65.7 kB</div>
-                                <div>36.91%</div>
+                                <div>65.6 kB</div>
+                                <div>34.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Shell
                             </div>
                             <small>
-                                <div>9.86 kB</div>
-                                <div>5.53%</div>
+                                <div>11.2 kB</div>
+                                <div>5.94%</div>
                             </small>
                         </div>
                     </section>
