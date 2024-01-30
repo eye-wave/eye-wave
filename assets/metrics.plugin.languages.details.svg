@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.60130828933808" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="219.60130828933808" y="0" width="154.7056348989336" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="374.30694318827165" y="0" width="41.86326062722167" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="416.1702038154933" y="0" width="27.163830637528132" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.33403445302145" y="0" width="12.880445070778032" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.21447952379947" y="0" width="3.785520476200492" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.25899534322622" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="217.25899534322622" y="0" width="152.35123626865138" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="369.61023161187757" y="0" width="47.48866476851592" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="417.09889638039346" y="0" width="26.406105434265882" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="443.50500181465935" y="0" width="12.52114972728992" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.0261515419492" y="0" width="3.9738484580506985" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,8 +38,8 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>90.7 kB</div>
-                                <div>47.74%</div>
+                                <div>92.4 kB</div>
+                                <div>47.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,8 +50,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>17.3 kB</div>
-                                <div>9.1%</div>
+                                <div>20.2 kB</div>
+                                <div>10.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>5.33 kB</div>
-                                <div>2.8%</div>
+                                <div>2.72%</div>
                             </small>
                         </div>
                     </section>
@@ -76,8 +76,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>63.9 kB</div>
-                                <div>33.63%</div>
+                                <div>64.7 kB</div>
+                                <div>33.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>11.2 kB</div>
-                                <div>5.91%</div>
+                                <div>5.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,8 +100,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>1.56 kB</div>
-                                <div>0.82%</div>
+                                <div>1.69 kB</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                     </section>
