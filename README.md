@@ -1,5 +1,4 @@
-<div align="center">
+Hi
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eye-wave&show_icons=true&theme=dark&rank_icon=github)
-
-</div>
+i make sound waves on my computer
+and sometimes programs that make sound waves
